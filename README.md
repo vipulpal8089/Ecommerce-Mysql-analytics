@@ -45,4 +45,6 @@ Most-used payment method: _____
 Connect to Power BI/Tableau for interactive dashboards
 Automate reporting with Python + pandas
 
-Author: [Your Name] · [LinkedIn] · [Email]
+Author: Vipul Pal
+LinkedIn - https://www.linkedin.com/in/vipul-pal-49391a406/
+Email - VipulPal8089@gmail.com
